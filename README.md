@@ -6,7 +6,7 @@
 - 📫 Contate-me no email: bribeiros22@gmail.com
 - 😄 Pronouns: ela/dela
 
- <img align="right" alt="Brenda-Lain" height="200" width="200" src="https://giffiles.alphacoders.com/171/171342.gif">
+ <img align="right" alt="Brenda-Lain" height="400" width="400" src="https://giffiles.alphacoders.com/171/171342.gif">
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Brenda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
