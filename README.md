@@ -17,10 +17,8 @@
  <img align="center" alt="Brenda-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
  <img align="center" alt="Brenda-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
 </div>
-
+ <img alight="center" alt="Brenda-Lain" height ="80" width="100" src="https://giffiles.alphacoders.com/171/171342.gif">
 ##
-
-<br><br>
 
 <div>
   <a href="https://www.instagram.com/sorafune.mp3/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
