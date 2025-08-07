@@ -6,6 +6,7 @@
 - 📫 Contate-me no email: bribeiros22@gmail.com
 - 😄 Pronouns: ela/dela
 
+ <img align="right" alt="Brenda-Lain" src="https://giffiles.alphacoders.com/171/171342.gif">
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Brenda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,7 +15,6 @@
  <img align="center" alt="Brenda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Brenda-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
  <img align="center" alt="Brenda-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
- <img align="right" alt="Brenda-Lain" src="https://giffiles.alphacoders.com/171/171342.gif">
 </div>
 
 <br><br>
