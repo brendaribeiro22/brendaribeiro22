@@ -20,7 +20,7 @@
 
 </div>
 
- <div style="display: inline">
+ <div style="display: inline position: relative margin-right: 100px" >
    <img style="display: inline" alight="right" alt="Brenda-Lain" height="100" width="100" src="https://giffiles.alphacoders.com/171/171342.gif">
  </div>
 
