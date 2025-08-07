@@ -7,8 +7,8 @@
 - 😄 Pronouns: ela/dela
 ##
 
- <img alight="right" alt="Brenda-Lain" height="100" width="150" src="https://giffiles.alphacoders.com/171/171342.gif">
-<div style="display: inline_block"><br>
+
+<div style="display: inline"><br>
  <img align="center" alt="Brenda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Brenda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Brenda-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -17,6 +17,7 @@
  <img align="center" alt="Brenda-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
  <img align="center" alt="Brenda-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
  <img align="center" alt="Brenda-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+ <img alight="right" alt="Brenda-Lain" height="100" width="150" src="https://giffiles.alphacoders.com/171/171342.gif">
 </div>
 
 ##
