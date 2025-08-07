@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Brenda 👋
 
 
-
 - 🌱 Estudando JavaScript e React
 - 📫 Contate-me no email: bribeiros22@gmail.com
 - 😄 Pronouns: ela/dela
