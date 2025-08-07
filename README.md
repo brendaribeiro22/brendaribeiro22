@@ -16,7 +16,7 @@
  <img align="center" alt="Brenda-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
  <img align="center" alt="Brenda-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
  <img align="center" alt="Brenda-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
- <img alight="right" alt="Brenda-Lain" height ="150" width="150" src="https://giffiles.alphacoders.com/171/171342.gif">
+ <img style="position: relative" right="60px" alight="right" alt="Brenda-Lain" height ="150" width="150" src="https://giffiles.alphacoders.com/171/171342.gif">
 </div>
 
 ##
