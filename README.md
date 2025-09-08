@@ -19,14 +19,9 @@
 
 <br>
 
-<div>
+<div style="display: flex; flex-flow: row wrap; justify-content: space-around; align-items: center;">
   <a href="https://www.instagram.com/hokutinho/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brenda-ribeiro-93ab31378/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:bribeiros22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <img alt="Brenda-Lain"  height="200" width="200" src="https://giffiles.alphacoders.com/171/171342.gif">
 </div>
-
-<br><br>
- <img align="center" alt="Brenda-Lain"  height="200" width="200" src="https://giffiles.alphacoders.com/171/171342.gif">
-
-
- 
