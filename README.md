@@ -25,5 +25,3 @@
   <a href = "mailto:bribeiros22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<br><br>
- <img align="center" alt="Brenda-Lain"  height="200" width="200" src="https://giffiles.alphacoders.com/171/171342.gif">
